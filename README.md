@@ -16,13 +16,13 @@ Model Training: Train the XGBoost regression model using the preprocessed datase
 Model Evaluation: Evaluate the trained model's performance using appropriate evaluation metrics such as mean squared error (MSE) and R-squared.
 Prediction: Utilize the trained model to make predictions on new or unseen data.
 # Dependencies
-Python 3.x
-scikit-learn
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-XGBoost
+- Python 3.x
+- scikit-learn
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
+- XGBoost
 
 # How to Run
 To run the house price prediction model:
